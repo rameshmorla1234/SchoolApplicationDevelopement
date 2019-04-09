@@ -1,0 +1,17 @@
+D:\Rameshmorla\EducationalOrganization\GateWay\bin\Debug\netcoreapp2.2\GateWay.deps.json
+D:\Rameshmorla\EducationalOrganization\GateWay\bin\Debug\netcoreapp2.2\GateWay.runtimeconfig.json
+D:\Rameshmorla\EducationalOrganization\GateWay\bin\Debug\netcoreapp2.2\GateWay.runtimeconfig.dev.json
+D:\Rameshmorla\EducationalOrganization\GateWay\bin\Debug\netcoreapp2.2\GateWay.dll
+D:\Rameshmorla\EducationalOrganization\GateWay\obj\Debug\netcoreapp2.2\GateWay.csprojAssemblyReference.cache
+D:\Rameshmorla\EducationalOrganization\GateWay\obj\Debug\netcoreapp2.2\GateWay.csproj.CoreCompileInputs.cache
+D:\Rameshmorla\EducationalOrganization\GateWay\obj\Debug\netcoreapp2.2\GateWay.RazorAssemblyInfo.cache
+D:\Rameshmorla\EducationalOrganization\GateWay\obj\Debug\netcoreapp2.2\GateWay.RazorAssemblyInfo.cs
+D:\Rameshmorla\EducationalOrganization\GateWay\obj\Debug\netcoreapp2.2\GateWay.AssemblyInfoInputs.cache
+D:\Rameshmorla\EducationalOrganization\GateWay\obj\Debug\netcoreapp2.2\GateWay.AssemblyInfo.cs
+D:\Rameshmorla\EducationalOrganization\GateWay\obj\Debug\netcoreapp2.2\GateWay.RazorTargetAssemblyInfo.cache
+D:\Rameshmorla\EducationalOrganization\GateWay\bin\Debug\netcoreapp2.2\GateWay.pdb
+D:\Rameshmorla\EducationalOrganization\GateWay\obj\Debug\netcoreapp2.2\GateWay.dll
+D:\Rameshmorla\EducationalOrganization\GateWay\obj\Debug\netcoreapp2.2\GateWay.pdb
+D:\Rameshmorla\EducationalOrganization\GateWay\bin\Debug\netcoreapp2.2\EODAL.dll
+D:\Rameshmorla\EducationalOrganization\GateWay\bin\Debug\netcoreapp2.2\EODAL.pdb
+D:\Rameshmorla\EducationalOrganization\GateWay\obj\Debug\netcoreapp2.2\GateWay.csproj.CopyComplete

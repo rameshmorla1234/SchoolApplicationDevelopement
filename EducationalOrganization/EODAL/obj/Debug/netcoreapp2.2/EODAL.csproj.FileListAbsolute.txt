@@ -1,0 +1,11 @@
+D:\Rameshmorla\EducationalOrganization\EODAL\bin\Debug\netcoreapp2.2\EODAL.deps.json
+D:\Rameshmorla\EducationalOrganization\EODAL\bin\Debug\netcoreapp2.2\EODAL.dll
+D:\Rameshmorla\EducationalOrganization\EODAL\obj\Debug\netcoreapp2.2\EODAL.csproj.CoreCompileInputs.cache
+D:\Rameshmorla\EducationalOrganization\EODAL\obj\Debug\netcoreapp2.2\EODAL.AssemblyInfoInputs.cache
+D:\Rameshmorla\EducationalOrganization\EODAL\obj\Debug\netcoreapp2.2\EODAL.AssemblyInfo.cs
+D:\Rameshmorla\EducationalOrganization\EODAL\bin\Debug\netcoreapp2.2\EODAL.runtimeconfig.json
+D:\Rameshmorla\EducationalOrganization\EODAL\bin\Debug\netcoreapp2.2\EODAL.runtimeconfig.dev.json
+D:\Rameshmorla\EducationalOrganization\EODAL\obj\Debug\netcoreapp2.2\EODAL.csprojAssemblyReference.cache
+D:\Rameshmorla\EducationalOrganization\EODAL\bin\Debug\netcoreapp2.2\EODAL.pdb
+D:\Rameshmorla\EducationalOrganization\EODAL\obj\Debug\netcoreapp2.2\EODAL.dll
+D:\Rameshmorla\EducationalOrganization\EODAL\obj\Debug\netcoreapp2.2\EODAL.pdb
